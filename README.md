@@ -1,7 +1,7 @@
 Miembros del Equipo:
 
-Orlando R. Arroyo Escalante
-Daniel A. Forero Candanoza
-Luddys R. Solano Mejía
-Sebastián Rivera Valbuena
-Mariana Serrato Mejía
+Orlando R. Arroyo Escalante <br />
+Daniel A. Forero Candanoza <br />
+Luddys R. Solano Mejía <br />
+Sebastián Rivera Valbuena <br />
+Mariana Serrato Mejía <br />
